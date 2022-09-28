@@ -1,18 +1,26 @@
-*{
-  margin:0px;
-  padding:0px;
-  box-sizing: border-box;
+.navel{
+color: white;
 }
-.btn1{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: row;
+.bold{
+  /* font: bold; */
+  font-weight: bold;
+  color: black;
+  cursor: pointer;
 }
-
-.butn{
-  margin: 4px;
-  /* background-color: #2929ff; */
-  border-radius: none;
-  color: aliceblue;
+.bold{
+  /* font: bold; */
+  font-weight: bold;
+  color: black;
+}
+.font1{
+  font-style:italic;
+  cursor: pointer;
+}
+.font2{
+  font-family: cursive !important;
+  cursor: pointer;
+}
+.font3{
+  font-family: Roboto, sans-serif;
+  cursor: pointer;
 }
